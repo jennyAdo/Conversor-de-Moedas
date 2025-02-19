@@ -40,8 +40,8 @@ Este é um projeto desenvolvido em Java utilizando conceitos de Orientação a O
 
 📦 Como Executar o Projeto
 1️⃣ Clonar o Repositório
-git clone https://github.com/jennyAdo/cofrinho-java.git
-cd cofrinho-java
+git clone - https://github.com/jennyAdo/Conversor-de-Moedas-java.git
+cd Conversor-de-Moedas-java
 2️⃣ Compilar o Projeto
 javac src/\*.java
 3️⃣ Executar
